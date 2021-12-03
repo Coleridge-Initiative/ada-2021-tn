@@ -1,4 +1,4 @@
-# Applied Data Anaytics Program - Tennessee Class
+# Applied Data Analytics Program - Tennessee Class
 There was a 2021 Applied Data Analytics workshop in Tennessee. Participants worked in teams with higher education and employment agency data. The specific focus of the workshop was on connecting post-secondary completion in Tennessee to workforce outcomes in both Tennessee and neighboring states. The program provided instruction on using big data tools including SQL and R. Participants received training on core data concepts such as record linkage and data visualization as well as cutting-edge training in machine learning.
 
 This repository contains the class materials for the Tennessee applied data analytics program.
